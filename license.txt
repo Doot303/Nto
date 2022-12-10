@@ -1,0 +1,11 @@
+Model Information:
+* title:	шлем НТО
+* source:	https://sketchfab.com/3d-models/57836396c8f047a5bdb9490ce77158e7
+* author:	dmitriyebachar60 (https://sketchfab.com/dmitriyebachar60)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "шлем НТО" (https://sketchfab.com/3d-models/57836396c8f047a5bdb9490ce77158e7) by dmitriyebachar60 (https://sketchfab.com/dmitriyebachar60) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
